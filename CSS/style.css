@@ -1,0 +1,13 @@
+div {
+    color: red;
+}
+div[title="text"] {
+    color: blue;
+}
+p {
+    color: teal;
+    background-color: aquamarine;
+}
+.logo {
+    background-image: url(../img/0d7e83b5c0aa7bd38d71fc4a897cf65c.jpg);
+}
