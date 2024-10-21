@@ -9,13 +9,18 @@ div[title="two"] {
 }
 p {
     color: teal;
-    background-color: aquamarine;
+        border: 2px green solid;
+        border-radius: 4px;
+        bor
 }
 .logo {
     background-image: url("https://i.pinimg.com/736x/d6/7f/96/d67f9690e86bfbfe4ccbbd7c16b34d8d.jpg");
     background-repeat: no-repeat;
+    height: 150px;
+    width: 150px;
+    border: 1px solid black;
 }
 .mine {
-    background-image: url("../img/logo.png");
+    background-image: url("../img/i\ \(1\).webp");
     background-repeat: no-repeat;
 }
